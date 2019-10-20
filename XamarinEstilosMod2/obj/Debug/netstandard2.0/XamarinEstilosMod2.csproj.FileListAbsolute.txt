@@ -1,0 +1,14 @@
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/bin/Debug/netstandard2.0/XamarinEstilosMod2.deps.json
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/bin/Debug/netstandard2.0/XamarinEstilosMod2.dll
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/bin/Debug/netstandard2.0/ref/XamarinEstilosMod2.dll
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/bin/Debug/netstandard2.0/XamarinEstilosMod2.pdb
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/XamarinEstilosMod2.csprojAssemblyReference.cache
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/XamarinEstilosMod2.AssemblyInfoInputs.cache
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/XamarinEstilosMod2.AssemblyInfo.cs
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/XamarinEstilosMod2.dll
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/ref/XamarinEstilosMod2.dll
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/XamarinEstilosMod2.pdb
+/Users/nvelasquez/Projects/XamarinEstilosMod2/XamarinEstilosMod2/obj/Debug/netstandard2.0/Theme/Bootstrap.xaml.g.cs

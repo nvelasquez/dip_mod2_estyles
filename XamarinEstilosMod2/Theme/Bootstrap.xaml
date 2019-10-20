@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+                    x:Class="XamarinEstilosMod2.Theme.Bootstrap">
+
+    <Style TargetType="Label" x:Key="BaseLabel">
+        <Setter Property="FontAttributes">Italic</Setter>
+        <Setter Property="HorizontalOptions">FillAndExpand</Setter>
+    </Style>
+
+    <Style TargetType="Label" x:Key="Primary"
+            BasedOn="{d:StaticResource BaseLabel}">
+        <Setter Property="FontSize">28</Setter>
+        <Setter Property="TextColor">Black</Setter>
+    </Style>
+
+    <Style TargetType="Label" x:Key="Body"
+            BasedOn="{d:StaticResource BaseLabel}">
+        <Setter Property="TextColor">DarkGray</Setter>
+        <Setter Property="FontSize">30</Setter>
+    </Style>
+    <Style TargetType="Entry">
+        <Setter Property="FontSize">32</Setter>
+        <Setter Property="HorizontalOptions">FillAndExpand</Setter>
+        <Setter Property="BackgroundColor">LightGray</Setter>
+        <Setter Property="PlaceholderColor">White</Setter>
+        <Setter Property="TextColor">Black</Setter>
+    </Style>
+
+    <Style TargetType="Button" x:Key="Dark">
+        <Setter Property="TextColor">White</Setter>
+        <Setter Property="BackgroundColor">Black</Setter>
+    </Style>
+
+    <Style TargetType="Button" x:Key="Light">
+        <Setter Property="BackgroundColor">White</Setter>
+        <Setter Property="TextColor">Blue</Setter>
+    </Style>
+
+</ResourceDictionary>

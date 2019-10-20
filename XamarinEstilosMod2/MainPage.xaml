@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="XamarinEstilosMod2.MainPage">
+    <ContentPage.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize">32</Setter>
+        </Style>
+    </ContentPage.Resources>
+    <StackLayout Orientation="Vertical"
+                 VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Padding="20,50,20,0">
+        <StackLayout Orientation="Horizontal"
+            HorizontalOptions="FillAndExpand">
+            <Label FontSize="14"
+                   Style="{d:StaticResource Key=Primary}"
+                   Text="Nombre"></Label>
+            <Entry Placeholder="Nombre" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+            HorizontalOptions="FillAndExpand">
+            <Label Style="{d:StaticResource Key=Primary}" Text="Apellido"></Label>
+            <Entry Placeholder="Apellido" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+            HorizontalOptions="FillAndExpand">
+            <Label Style="{d:StaticResource Key=Primary}" Text="Cedula"></Label>
+            <Entry Placeholder="Cedula" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+            HorizontalOptions="FillAndExpand">
+            <Label Style="{d:StaticResource Key=Primary}" Text="Telefono"></Label>
+            <Entry Placeholder="Telefono" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+            HorizontalOptions="FillAndExpand">
+            <Label Style="{d:StaticResource Key=Body}"  Text="Email"></Label>
+            <Entry Placeholder="Email" />
+        </StackLayout>
+        <Button
+            Text="Registrarse"
+            HorizontalOptions="FillAndExpand" />
+        <Button
+            Clicked="cambiarTema"
+            Text="Cambiar Tema"
+            Style="{d:DynamicResource Key=buttonTheme}"
+            HorizontalOptions="FillAndExpand" />
+    </StackLayout>
+</ContentPage>
