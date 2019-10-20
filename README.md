@@ -56,5 +56,6 @@ El contenido demostrado en el laboratorio comprende los siguientes temas:
 ```
 
 ## Recursos
-[Estilos en Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/xaml/)
-[Presentacion usada en clases](https://docs.google.com/presentation/d/13YeGP-xa_ym1A1EL6JJcKq7XehT4Y5RhTCQbQuWLMa0/edit?usp=sharing)
+* [Estilos en Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/xaml/)
+
+* [Presentacion usada en clases](https://docs.google.com/presentation/d/13YeGP-xa_ym1A1EL6JJcKq7XehT4Y5RhTCQbQuWLMa0/edit?usp=sharing)
