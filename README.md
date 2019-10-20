@@ -1,5 +1,4 @@
-# dip_mod2_estyles
-Modulo Dos del Diplomado Xamarin Forms Uteco.
+# Estilos - Modulo 2 del Diplomado Xamarin Forms Uteco
 
 El presente repositorio corresponde al laboratorio trabajado en clases para el encuentro **no. 2** del **modulo 2** del diplomado de Desarrollo de aplicaciones moviles de la universidad **Uteco**
 
